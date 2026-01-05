@@ -15,4 +15,4 @@ I work mainly with **JavaScript** and have basic knowledge of **Python**.
 - Looking for an **Internship / Junior role in Ireland**
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/matheus-grou-b5204a24a/?trk=opento_sprofile_topcard
+- LinkedIn: https://www.linkedin.com/in/matheus-grou-b5204a24a/
