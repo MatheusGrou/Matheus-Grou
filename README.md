@@ -1,6 +1,6 @@
 # Hi, I'm Matheus 👋
 
-I'm a Computer Science student currently based in Ireland 🇮🇪  
+I'm a Software Engineer student currently based in Ireland 🇮🇪  
 I work mainly with **JavaScript** and have basic knowledge of **Python**.
 
 ## 🧠 Skills
