@@ -1,6 +1,6 @@
 # Hi, I'm Matheus 👋
 
-I'm a Software Engineer student currently based in Ireland 🇮🇪  
+I'm a Software Engineer student currently based in Brazil  
 I work mainly with **JavaScript** and have basic knowledge of **Python**.
 
 ## 🧠 Skills
@@ -11,8 +11,8 @@ I work mainly with **JavaScript** and have basic knowledge of **Python**.
 
 ## 🎯 Current Focus
 - Building web projects with JavaScript
-- Improving my English (B2 → C1)
-- Looking for an **Internship / Junior role in Ireland**
+- Improving my English (C2)
+- Looking for an **Internship / Junior role in Brazil**
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/matheus-grou-b5204a24a/
